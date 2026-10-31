@@ -9,6 +9,19 @@
 **NEXUS AI FINOPS** is an intelligent, autonomous LLM routing, cost governance, and financial operations engine. It eliminates enterprise AI waste by analyzing user requests in sub-milliseconds and automatically routing every query to the most cost-effective model that satisfies required quality and latency boundaries.
 
 ---
+## OUTPUT:
+## 1 )
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/ea72e59d-8daf-4a91-a244-f9b4da66d506" />
+## 2 )
+<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/48f8b1ed-5bf3-4cc7-9bdc-6da692f6cf9d" />
+## 3 )
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/93c0fa76-43c8-436e-bc70-baa9cc3b77e7" />
+## 4 )
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/07403e72-e0f0-4dd1-9056-3653f0784b6e" />
+
+
+
+
 
 ## 🚀 Key Capabilities
 
