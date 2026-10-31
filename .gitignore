@@ -1,0 +1,61 @@
+# Environment variables & secrets
+.env
+*.env
+backend/.env
+frontend/.env
+*.env.local
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+nexus_finops.db*
+backend/nexus_finops.db*
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+frontend/dist/
+frontend/.vite/
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
