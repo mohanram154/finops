@@ -31,6 +31,7 @@
 - **Automated Quality Guardrails & Fallbacks**: Evaluates completions post-generation; if a cheaper model breaches quality constraints, NEXUS automatically escalates to a higher-tier model before returning the response.
 - **Real-Time FinOps Advisor & What-If Simulator**: Continuously monitors request history, diagnoses cost anomalies, recommends rightsizing policies, and simulates hypothetical budget impacts.
 - **Executive Command Center Dashboard**: Real-time KPI cards, spend over time vs. unoptimized baseline, and interactive AI Playground.
+- **Executive Pitch Deck**: Complete 5-slide architecture, problem statement, and differentiation presentation included in [`docs/presentation.pptx`](docs/presentation.pptx) and [`docx/presentation.pptx`](docx/presentation.pptx).
 
 ---
 
